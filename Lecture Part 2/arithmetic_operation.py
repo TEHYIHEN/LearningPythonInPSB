@@ -7,9 +7,11 @@ difference = x - y
 quotient = x // y
 division = x / y
 remainder = x % y
+power = x ** y
 print("total:", total)
 print("product:",product)
 print("difference:",difference)
 print("quotient:",quotient)
 print("division:",division)
 print("remainder:",remainder)
+print("power:",power)

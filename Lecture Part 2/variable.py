@@ -14,7 +14,7 @@
     # class -> is a keyword
 
     #2.good variable names(guideline)
-    # - must be meaningful
+    # - must be meaningful # let teammate understand your code
     # - use all lower case for variables and function names
     # - use _ to connect words
     # eg. good names
