@@ -42,6 +42,10 @@
     "Python.escapre_char.executor": "Run",
     "Python.for_loop.executor": "Run",
     "Python.formatting_examples.executor": "Run",
+    "Python.function01.executor": "Run",
+    "Python.function02.executor": "Run",
+    "Python.function03.executor": "Run",
+    "Python.function4.executor": "Run",
     "Python.if-elif-else.executor": "Run",
     "Python.logical operater_and_or.executor": "Run",
     "Python.nested_ifelse.executor": "Run",
@@ -55,8 +59,11 @@
     "Python.selection_4.executor": "Run",
     "Python.simple_math_problem.executor": "Run",
     "Python.string_comparison.executor": "Run",
+    "Python.test.executor": "Run",
+    "Python.variable_scope.executor": "Run",
     "Python.while_loop.executor": "Run",
     "Python.while_loop2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
@@ -82,8 +89,8 @@
       <recent name="C:\Users\tehyi\PyCharmMiscProject\Lecture" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lab exercise 6">
-    <configuration name="Lab exercise 3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.simple_menu">
+    <configuration name="function02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharmMiscProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,14 +99,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 4/Lab exercise 3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 5/function02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -108,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab exercise 4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharmMiscProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,14 +124,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 4/Lab exercise 4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 5/function03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab exercise 5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="function4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharmMiscProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -142,14 +149,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 4/Lab exercise 5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 5/function4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -158,7 +165,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab exercise 6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="simple_menu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharmMiscProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,14 +174,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 4/Lab exercise 6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 5/simple_menu.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +190,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lab exercise" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PyCharmMiscProject" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,14 +199,14 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lecture 5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="DEBUG_JUST_MY_CODE" value="false" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="RUN_TOOL" value="" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 4/Lab exercise.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lecture 5/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -210,11 +217,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lab exercise 6" />
-        <item itemvalue="Python.Lab exercise 5" />
-        <item itemvalue="Python.Lab exercise 4" />
-        <item itemvalue="Python.Lab exercise 3" />
-        <item itemvalue="Python.Lab exercise" />
+        <item itemvalue="Python.simple_menu" />
+        <item itemvalue="Python.function4" />
+        <item itemvalue="Python.function03" />
+        <item itemvalue="Python.function02" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -235,7 +242,8 @@
       <workItem from="1775648538418" duration="17236000" />
       <workItem from="1775836526206" duration="153000" />
       <workItem from="1776337049178" duration="9976000" />
-      <workItem from="1776492813684" duration="7237000" />
+      <workItem from="1776492813684" duration="8505000" />
+      <workItem from="1776941017500" duration="9727000" />
     </task>
     <servers />
   </component>
@@ -245,8 +253,8 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Welcome$quadratic_solver.coverage" NAME="quadratic_solver Coverage Results" MODIFIED="1775734193816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$string_comparison.coverage" NAME="string_comparison Coverage Results" MODIFIED="1776339634886" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture Part 3" />
-    <SUITE FILE_PATH="coverage/Welcome$q5.coverage" NAME="q5 Coverage Results" MODIFIED="1775740950270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab Exercise" />
     <SUITE FILE_PATH="coverage/Welcome$Lab_exercise2__1_.coverage" NAME="Lab_exercise2 (1) Coverage Results" MODIFIED="1775739453428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab Exercise" />
+    <SUITE FILE_PATH="coverage/Welcome$q5.coverage" NAME="q5 Coverage Results" MODIFIED="1775740950270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab Exercise" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$Lab_exercise_5.coverage" NAME="Lab exercise 5 Coverage Results" MODIFIED="1776500730878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 4" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$while_loop2.coverage" NAME="while_loop2 Coverage Results" MODIFIED="1776497363909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 4" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$logical_operater_and_or.coverage" NAME="logical operater_and_or Coverage Results" MODIFIED="1776341563995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture Part 3" />
@@ -254,6 +262,7 @@
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$nested_ifelse.coverage" NAME="nested_ifelse Coverage Results" MODIFIED="1776343953358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture Part 3" />
     <SUITE FILE_PATH="coverage/Welcome$formatting_examples.coverage" NAME="formatting_examples Coverage Results" MODIFIED="1775736300441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$selection_2.coverage" NAME="selection_2 Coverage Results" MODIFIED="1776339042354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture Part 3" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$function01.coverage" NAME="function01 Coverage Results" MODIFIED="1776945728073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 5" />
     <SUITE FILE_PATH="coverage/Welcome$arithmetic_operation.coverage" NAME="arithmetic_operation Coverage Results" MODIFIED="1775654938635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$for_loop.coverage" NAME="for_loop Coverage Results" MODIFIED="1776346361399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 4" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$nested_loop.coverage" NAME="nested_loop Coverage Results" MODIFIED="1776495006776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 4" />
@@ -262,13 +271,18 @@
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$Lab_exercise_4.coverage" NAME="Lab exercise 4 Coverage Results" MODIFIED="1776500214644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 4" />
     <SUITE FILE_PATH="coverage/Welcome$printing_out.coverage" NAME="printing_out Coverage Results" MODIFIED="1775654483006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Welcome$q4.coverage" NAME="q4 Coverage Results" MODIFIED="1775739749786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture Part 2" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$function03.coverage" NAME="function03 Coverage Results" MODIFIED="1776949890210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 5" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$age_input_validator.coverage" NAME="age_input_validator Coverage Results" MODIFIED="1776494544633" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 4" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$test.coverage" NAME="test Coverage Results" MODIFIED="1776947024559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 5" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$Lab_exercise_3.coverage" NAME="Lab exercise 3 Coverage Results" MODIFIED="1776498573589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 4" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$function02.coverage" NAME="function02 Coverage Results" MODIFIED="1776948531966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 5" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$Lab_exercise_6.coverage" NAME="Lab exercise 6 Coverage Results" MODIFIED="1776501448779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 4" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$function4.coverage" NAME="function4 Coverage Results" MODIFIED="1776951518758" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 5" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$Lab_exercise.coverage" NAME="Lab exercise Coverage Results" MODIFIED="1776497590751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 4" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$selection_4.coverage" NAME="selection_4 Coverage Results" MODIFIED="1776342087979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture Part 3" />
     <SUITE FILE_PATH="coverage/Welcome$simple_math_problem.coverage" NAME="simple_math_problem Coverage Results" MODIFIED="1775733733950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Welcome$escapre_char.coverage" NAME="escapre_char Coverage Results" MODIFIED="1775734717288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PyCharmMiscProject$variable_scope.coverage" NAME="variable_scope Coverage Results" MODIFIED="1776945742057" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture 5" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$if_elif_else.coverage" NAME="if-elif-else Coverage Results" MODIFIED="1776340240676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture Part 3" />
     <SUITE FILE_PATH="coverage/PyCharmMiscProject$selection_1.coverage" NAME="selection_1 Coverage Results" MODIFIED="1776339133026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lecture Part 3" />
   </component>
